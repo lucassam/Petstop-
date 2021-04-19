@@ -1,2 +1,2 @@
 # PetStop
-LUIS É GAY
+PETSTOP
